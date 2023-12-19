@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "aureliomalheiros.tech"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
