@@ -195,7 +195,7 @@ params:
       - job: "Cloud Analyst"
         company: "At Hand Tecnologia"
         companyUrl: "https://athand.inf.br/"
-        date: "Sep 2020 - Dec 2021"
+        date: "Oct 2017 - Sep 2021"
         featuredLink:
           enable: false
           url: "https://athand.inf.br/"
