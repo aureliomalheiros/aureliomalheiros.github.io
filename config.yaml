@@ -1,4 +1,4 @@
-baseURL: "aureliomalheiros.tech"
+baseURL: "aureliomalheiros.github.io"
 languageCode: "en-us"
 title: "Home | Aurelio S Malheiros"
 theme: hugo-profile
@@ -173,10 +173,29 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Platform Enginier"
+        company: "JusBrasil"
+        companyUrl: "https://www.jusbrasil.com.br/"
+        date: "Oct 2024 - Present"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |-
+          - "Server management GNU/Linux"
+          - "Observability and monitoring using Cloud Logging, Prometheus and Grafana"
+          - "IAC using Terraform (Create modules and resources, refact code)"
+          - "CI/CD using GITHUB Actions and ArgoCD"
+          - "Management provider GCP"
+          - "Kubernetes administrator"
+          - "Deployment in kubernetes using Helm and create templates"
+          - "Configuration of the resources LinkerD"
+          - "Configure and Administrator Backstage Software Catalog"
+
       - job: "SRE/DevOps"
         company: "Unico IDTech"
         companyUrl: "https://unico.io/"
-        date: "Oct 2021 - present"
+        date: "Oct 2021 - Oct 2024"
         featuredLink:
           enable: false
           name: "View the project"
@@ -188,7 +207,6 @@ params:
           - "Documentation the infrastructure using Mkdocs and GitHub"
           - "CI/CD using GITHUB Actions and Spinnaker"
           - "Management AWS and GCP"
-          - "Kubernetes administrator"
           - "Deployment in kubernetes using Helm and create templates"
           - "Configuration of the resources ISTIO (gw, VirtualService, DestinationRule and Others)"
 
