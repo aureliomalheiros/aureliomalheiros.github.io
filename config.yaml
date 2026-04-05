@@ -167,6 +167,12 @@ params:
         - "NewRelic"
         - "AWS"
         - "Google Cloud"
+        - "Prometheus"
+        - "Grafana"
+        - "ArgoCD"
+        - "Linkerd"
+        - "Traefik"
+
 
   # Experience
   experience:
@@ -182,21 +188,27 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |-
-          - "Develop templates in Backstage using Terraform and YAML to automate and standardize service creation."
-          - "Manage Kubernetes clusters on Google Kubernetes Engine (GKE) to ensure scalability and reliability of applications."
-          - "Administer key GCP resources, including Compute Engine, Cloud SQL, Cloud DNS, Redis, and Apigee, optimizing performance and reducing costs."
-          - "Create and maintain Helm templates to simplify and streamline Kubernetes deployments."
-          - "Develop CI/CD pipelines using GitHub Actions and ArgoCD to automate and improve the software delivery process."
-          - "Monitor infrastructure performance using Prometheus and Grafana, ensuring continuous stability and quick detection of potential issues."
-          - "Develop AI tooling and automations using HolmesGPT, creating JusplatformAI to resolve Service Requests, analyze 100% of alerts, reduce team toil, and perform detailed PR reviews."
-          - ""
-          - "**Tools & Technologies:**"
-          - "⇢ **Infrastructure & Automation:** Terraform, Helm, YAML"
-          - "⇢ **Cloud & Environment Management:** Google Cloud (GKE, VPC, Network Services, Cloud Storage, AutoScaling, Load Balancer, Cloud SQL, Cloud DNS, Apigee)"
-          - "⇢ **Orchestration & Service Mesh:** Kubernetes and Linkerd"
-          - "⇢ **Monitoring & Observability:** Prometheus, Grafana"
-          - "⇢ **CI/CD & DevOps:** GitHub Actions, ArgoCD"
-          - "⇢ **AI & LLMOps:** HolmesGPT, JusplatformAI"
+          As a Platform Engineer at Jusbrasil, I focus on building and optimizing scalable, reliable infrastructure to support the company’s growth. I work at the intersection of automation, observability, and continuous improvement of distributed systems, ensuring efficiency, resilience, and performance across the platform.
+          Key Responsibilities:
+
+          - Develop templates in Backstage using Terraform and YAML to automate and standardize service creation.
+          - Manage Kubernetes clusters on Google Kubernetes Engine (GKE) to ensure scalability and reliability of applications.
+          - Administer key GCP resources, including Compute Engine, Cloud SQL, Cloud DNS, Redis, and Apigee, optimizing performance and reducing costs.
+          - Create and maintain Helm templates to simplify and streamline Kubernetes deployments.
+          - Develop CI/CD pipelines using GitHub Actions and ArgoCD to automate and improve the software delivery process.
+          - Monitor infrastructure performance using Prometheus and Grafana, ensuring continuous stability and quick detection of potential issues.
+          - Develop AI tooling and automations using HolmesGPT, creating JusplatformAI to resolve Service Requests, analyze 100% of alerts, reduce team toil, and perform detailed PR reviews.
+
+          I am committed to driving the continuous evolution of the company’s technology platforms, ensuring they are resilient, scalable, and high-performing.
+
+          Tools & Technologies:
+
+          - Infrastructure & Automation: Terraform, Helm, YAML
+          - Cloud & Environment Management: Google Cloud (GKE, VPC, Network Services, Cloud Storage, AutoScaling, Load Balancer, Cloud SQL, Cloud DNS, Apigee)
+          - Orchestration & Service Mesh: Kubernetes and Linkerd
+          - Monitoring & Observability: Prometheus, Grafana
+          - CI/CD & DevOps: GitHub Actions, ArgoCD
+          - AI & LLMOps: HolmesGPT, JusplatformAI
 
       - job: "SRE/DevOps"
         company: "Unico IDTech"
@@ -207,14 +219,29 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |-
-          - "Server management Windows and GNU/Linux"
-          - "Observability and monitoring using Cloud Loggin and NewRelic"
-          - "IAC using Terraform (Create modules and resources, refact code)"
-          - "Documentation the infrastructure using Mkdocs and GitHub"
-          - "CI/CD using GITHUB Actions and Spinnaker"
-          - "Management AWS and GCP"
-          - "Deployment in kubernetes using Helm and create templates"
-          - "Configuration of the resources ISTIO (gw, VirtualService, DestinationRule and Others)"
+          As an SRE at Unico IDtech, I am responsible for ensuring the reliability, performance, and scalability of infrastructure across multiple environments, focusing on server management (Windows and GNU/Linux) and system observability. My work includes Infrastructure as Code (IaC), CI/CD automation, and robust cloud management, ensuring optimal service delivery and system resilience.
+          
+          Key Responsibilities:
+
+          - Manage servers across Windows and GNU/Linux environments, ensuring system reliability, security, and uptime.
+          - Oversee observability and monitoring with NewRelic, configuring alerts, dashboards, and APM to ensure system health and performance.
+          - Implement Infrastructure as Code (IaC) using Terraform, enabling repeatable and scalable infrastructure deployments.
+          - Automate CI/CD pipelines with GitHub Actions and Spinnaker, streamlining software delivery processes.
+          - Manage cloud environments on AWS and Google Cloud, including services such as GKE, Compute Engine, VPC, Autoscaling, and Load Balancing.
+          - Deploy and manage service mesh solutions with Istio, ensuring secure and efficient service communication within Kubernetes clusters.
+          - Deploy and manage service mesh solutions with Istio, ensuring secure and efficient service communication within Kubernetes clusters.
+          - Propose improvements in the code of applications or even apply these improvements.
+
+          Tools & Technologies:
+
+          - Server Management: Windows, GNU/Linux
+          - Monitoring & Observability: NewRelic, Zabbix
+          - Infrastructure as Code: Terraform, Helm
+          - CI/CD Automation: GitHub Actions, Spinnaker
+          - Cloud Providers: AWS, GCP
+          - Service Mesh: Istio
+          - Documentation: Mkdocs, GitHub
+          - Languages: Golang and Python
 
       - job: "Cloud Analyst"
         company: "At Hand Tecnologia"
