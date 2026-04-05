@@ -172,6 +172,7 @@ params:
         - "ArgoCD"
         - "Linkerd"
         - "Traefik"
+        - "HolmesGPT"
 
 
   # Experience
